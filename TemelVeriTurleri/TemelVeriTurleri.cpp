@@ -22,6 +22,13 @@ int main()
     else {
         std::cout << "Kucuk Degil";
     }
+    unsigned short x{ 65535 };
+    std::cout << "x deger:" << x << '\n';
+    x = 65536;
+    std::cout << "x yeni deger:" << x << '\n';
+    x = 65537;
+    std::cout << "x son deger:" << x << '\n';
+
 
 
 }
