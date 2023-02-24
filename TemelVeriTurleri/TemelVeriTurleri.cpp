@@ -52,9 +52,10 @@ int main()
     //std::cout << std::setprecision(16);
     // std::cout << 9876543.21 << '\n';
 
-    int8_t d = 115;
+    int8_t d = 6;
+    int8_t a = 6;
 
-    std::cout << d << '\n';
+    std::cout << a+d << '\n';
 
 
 
