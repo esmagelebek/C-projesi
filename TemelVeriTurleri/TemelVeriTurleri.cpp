@@ -44,7 +44,7 @@ int main()
     
     */
 
-   // float f{123456789.0f};
+   // double f{123456789.0};
 
     //std::cout << std::setprecision(6); hassasiyet 6
     //std::cout << f << '\n';
