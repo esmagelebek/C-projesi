@@ -38,17 +38,17 @@ int main()
     std::cout << x-y << '\n';
     */
 
-    double f{123456789.0};
+   // double f{123456789.0};
 
-    std::cout << std::setprecision(6);
-    std::cout << f << '\n';
+    //std::cout << std::setprecision(6);
+    //std::cout << f << '\n';
 
     //std::cout << std::setprecision(16);
     // std::cout << 9876543.21 << '\n';
 
-    //int8_t d = 115;
+    int8_t d = 115;
 
-    //std::cout << d << '\n';
+    std::cout << d << '\n';
 
 
 
