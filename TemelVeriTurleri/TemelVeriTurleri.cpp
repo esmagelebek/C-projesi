@@ -37,10 +37,16 @@ int main()
 
     std::cout << x-y << '\n';
     */
+    /*
+    9.8765x10^24
+    C++ gosterimi sifirdan onceki haneler + 1.2e4 olarak gosterilir.
+    örn:9.8765x10^24 c++ karsiligi 5.9736e24
+    
+    */
 
-   // double f{123456789.0};
+   // float f{123456789.0f};
 
-    //std::cout << std::setprecision(6);
+    //std::cout << std::setprecision(6); hassasiyet 6
     //std::cout << f << '\n';
 
     //std::cout << std::setprecision(16);
